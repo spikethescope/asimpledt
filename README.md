@@ -1,2 +1,5 @@
 # asimpledt
 Demo of decision tree
+This repository contains data on taxable income, refunds, marital status, and defaulters. The data is stored in a Python dictionary with four keys: 'Refund', 'Marital_Status', 'Taxable_Income', and 'Defaulter'. Each key corresponds to a list of values that represent the data for that category.
+The 'Refund' key contains data on whether a person received a refund or not. The values are either 'Yes' or 'No'. The 'Marital_Status' key contains data on the marital status of each person. The values are 'Single', 'Married', or 'Divorced'. The 'Taxable_Income' key contains data on the taxable income of each person. The values are integers. Finally, the 'Defaulter' key contains data on whether a person defaulted on their taxes or not. The values are either 'Yes' or 'No'.
+This data can be used for various purposes, such as analyzing the relationship between marital status and taxable income, or predicting whether a person is likely to default on their taxes based on their refund history. The data can be accessed and manipulated using Python, and can be visualized using various data visualization tools.
